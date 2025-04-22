@@ -36,9 +36,11 @@
 - 実行ごとに `yyyyMMdd_1`, `yyyyMMdd_2` ... の形式で新しいシートが生成されます
 
 ---
-## 🚀 実行方法①()
-1.拡張機能「AppScript」を起動
-2.
+## 🚀 実行方法①
+1. Googleスプレッドシートを作成
+2. `拡張機能 > Apps Script` でコードを貼り付け
+3. スクリプトを保存し、`importGroupCalendarEventsWithNames()` を実行
+4. 初回実行時に**Googleカレンダーの権限許可**を求められるので承認
 
 ---
 
